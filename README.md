@@ -14,5 +14,5 @@ Windows:
 1. Open a Command Prompt window in the src directory
 2. Type the following commands:
 
-            javac \*.java
+            javac *.java
             java RealEstateSearcher
