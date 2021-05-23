@@ -7,7 +7,6 @@ Linux/Mac:
 2. Enter the following commands:
 
             chmod 700 run.sh
-      
             run.sh
 3. Exit the GUI window to close the application and return to the shell prompt
 
@@ -16,5 +15,4 @@ Windows:
 2. Type the following commands:
 
             javac \*.java
-      
             java RealEstateSearcher
