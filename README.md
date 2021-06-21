@@ -1,2 +1,2 @@
 # real-estate-searcher
-A Real Estate GUI application built using Java FX. Demo data included.
+The code and stuff is on the other branch because it won't let me merge them.
